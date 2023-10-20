@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-
+import "./App.css";
 
 export default function AddProduct() {
   const [product, setproduct] = useState({
